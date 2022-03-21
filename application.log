@@ -1,0 +1,706 @@
+2022-03-16_19:12:13.293 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:12:13.350 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:12:13.371 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:12:13.376 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:12:16.038 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:12:16.039 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:12:16.063 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-16_19:12:16.088 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:12:16.089 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:12:54.561 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:12:54.637 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:12:54.659 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:12:54.666 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:12:58.663 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:12:58.663 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:12:58.677 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-16_19:12:58.694 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:12:58.694 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:13:02.366 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:13:02.366 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:13:02.367 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+        E E 
+      L L L 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+POODLE] as "application/json"
+2022-03-16_19:13:02.390 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:13:02.390 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:13:13.827 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:13:13.827 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:13:13.828 [main] DEBUG o.s.web.client.RestTemplate - Writing [        C C 
+      C E E 
+R R R L L L 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+FRENCH] as "application/json"
+2022-03-16_19:13:13.835 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:13:13.836 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:13:18.638 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:13:18.639 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:13:18.639 [main] DEBUG o.s.web.client.RestTemplate - Writing [        C C 
+      C E E 
+R R R L L L 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+PRANCE] as "application/json"
+2022-03-16_19:13:18.660 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:13:18.660 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:13:21.597 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:13:21.597 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:13:21.598 [main] DEBUG o.s.web.client.RestTemplate - Writing [      R C C 
+      C E E 
+R R R L L L 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+OPERAS] as "application/json"
+2022-03-16_19:13:21.616 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:13:21.616 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:13:59.997 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:14:00.056 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:14:00.075 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:14:00.080 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:14:04.019 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:14:04.020 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:14:04.039 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-16_19:14:04.067 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:14:04.067 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:14:07.803 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:14:07.803 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:14:07.804 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+        L   
+    C C C L 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+PENCIL] as "application/json"
+2022-03-16_19:14:07.819 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:14:07.819 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:14:59.801 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:14:59.855 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:15:00.062 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:15:00.067 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:15:32.231 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:15:32.232 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:15:32.248 [main] DEBUG o.s.web.client.RestTemplate - Writing [              
+              
+              
+? ? ? ? ? ? ? ] as "application/json"
+2022-03-16_19:15:32.333 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:15:32.333 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:15:47.292 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:15:47.293 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:15:47.294 [main] DEBUG o.s.web.client.RestTemplate - Writing [              
+              
+              
+? ? ? ? ? ? ? 
+ 
+ Most recent guess: 
+NUTMEAT] as "application/json"
+2022-03-16_19:15:47.316 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:15:47.317 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:16:36.641 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:16:36.694 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:16:36.875 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-16_19:16:54.556 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:16:54.615 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:16:54.804 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:16:54.810 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:17:02.334 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:17:02.334 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:17:02.351 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? ] as "application/json"
+2022-03-16_19:17:02.416 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:17:02.416 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:17:09.205 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:17:09.206 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:17:09.206 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+SPOT] as "application/json"
+2022-03-16_19:17:09.231 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:17:09.232 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:17:24.031 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:17:24.032 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:17:24.032 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+R R R   
+? ? ? ? 
+ 
+ Most recent guess: 
+ARCH] as "application/json"
+2022-03-16_19:17:24.055 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:17:24.056 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:17:47.700 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:17:47.701 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:17:47.701 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+R R R   
+? ? ? ? 
+ 
+ Most recent guess: 
+RISK] as "application/json"
+2022-03-16_19:17:47.718 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:17:47.719 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:18:29.620 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:18:29.621 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:18:29.621 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+ACRE] as "application/json"
+2022-03-16_19:18:29.635 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:18:29.635 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:18:35.837 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:18:35.838 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:18:35.838 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+ERAS] as "application/json"
+2022-03-16_19:18:35.854 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:18:35.854 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:18:41.609 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:18:41.610 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:18:41.610 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+SIRE] as "application/json"
+2022-03-16_19:18:41.634 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:18:41.634 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:18:55.604 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:18:55.605 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:18:55.605 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+LAST] as "application/json"
+2022-03-16_19:18:55.621 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:18:55.622 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:18:59.110 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:18:59.111 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:18:59.111 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+COIN] as "application/json"
+2022-03-16_19:18:59.125 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:18:59.126 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:04.291 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:19:04.292 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:04.292 [main] DEBUG o.s.web.client.RestTemplate - Writing [    U   
+U U E E 
+R R R R 
+? ? ? ? 
+ 
+ Most recent guess: 
+NULL] as "application/json"
+2022-03-16_19:19:04.312 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:19:04.312 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:29.771 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:19:29.833 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:30.010 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:19:30.015 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:44.722 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:19:44.722 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:44.738 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? ] as "application/json"
+2022-03-16_19:19:44.807 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:19:44.808 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:48.424 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:19:48.424 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:48.424 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+CRAP] as "application/json"
+2022-03-16_19:19:48.446 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:19:48.446 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:51.549 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:19:51.549 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:51.550 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+TILE] as "application/json"
+2022-03-16_19:19:51.561 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:19:51.561 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:19:59.038 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:19:59.038 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:19:59.039 [main] DEBUG o.s.web.client.RestTemplate - Writing [    T   
+  O O T 
+N N N O 
+? ? ? ? 
+ 
+ Most recent guess: 
+SNOT] as "application/json"
+2022-03-16_19:19:59.061 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:19:59.061 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:20:22.215 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:20:22.215 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:20:22.216 [main] DEBUG o.s.web.client.RestTemplate - Writing [    T   
+  O O T 
+N N N O 
+? ? ? ? 
+ 
+ Most recent guess: 
+KNOT] as "application/json"
+2022-03-16_19:20:22.238 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:20:22.238 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:20:37.038 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:20:37.039 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:20:37.039 [main] DEBUG o.s.web.client.RestTemplate - Writing [  T T   
+O O O T 
+N N N O 
+? ? ? ? 
+ 
+ Most recent guess: 
+ONTO] as "application/json"
+2022-03-16_19:20:37.061 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:20:37.061 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:21:32.515 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:21:32.573 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:21:32.772 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:21:32.777 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:21:39.809 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:21:39.810 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:21:39.828 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? ] as "application/json"
+2022-03-16_19:21:39.899 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:21:39.900 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:21:44.266 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:21:44.267 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:21:44.267 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+CRAP] as "application/json"
+2022-03-16_19:21:44.290 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:21:44.291 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:21:49.303 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:21:49.303 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:21:49.304 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+    E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+NOTE] as "application/json"
+2022-03-16_19:21:49.326 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:21:49.327 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:03.335 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:03.335 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:03.335 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+    N N 
+    E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+SPAN] as "application/json"
+2022-03-16_19:22:03.357 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:03.357 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:10.151 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:10.151 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:10.152 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I   
+  N N N 
+I I E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+DINE] as "application/json"
+2022-03-16_19:22:10.173 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:10.173 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:13.403 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:13.403 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:13.403 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I   
+  N N N 
+I I E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+TINE] as "application/json"
+2022-03-16_19:22:13.424 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:13.424 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:15.941 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:15.941 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:15.942 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I   
+  N N N 
+I I E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+MINE] as "application/json"
+2022-03-16_19:22:15.952 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:15.953 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:19.245 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:19.245 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:19.246 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I   
+  N N N 
+I I E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+LINE] as "application/json"
+2022-03-16_19:22:19.253 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:19.254 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:22:23.213 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:22:23.214 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:22:23.214 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I   
+  N N N 
+I I E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+NINE] as "application/json"
+2022-03-16_19:22:23.230 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:22:23.230 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:27:21.508 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8080/puzzle
+2022-03-16_19:27:21.566 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:27:21.775 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-16_19:27:21.781 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:27:25.940 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:27:25.941 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:27:25.956 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? ] as "application/json"
+2022-03-16_19:27:26.036 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:27:26.036 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-16_19:27:27.566 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:8080/puzzle
+2022-03-16_19:27:27.567 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-16_19:27:27.567 [main] DEBUG o.s.web.client.RestTemplate - Writing [  E N   
+I I E N 
+F F I E 
+? ? ? ? 
+ 
+ Most recent guess: 
+FIEN] as "application/json"
+2022-03-16_19:27:27.580 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-16_19:27:27.580 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:55:20.848 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_09:55:20.951 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:55:21.358 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_09:55:21.363 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:55:27.620 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:55:27.620 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:55:27.637 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_09:55:27.744 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:55:27.745 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:55:34.946 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:55:34.947 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:55:34.948 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_09:55:34.985 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:55:34.985 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:55:38.140 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:55:38.140 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:55:38.141 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? 
+ 
+ Most recent guess: 
+TESTS] as "application/json"
+2022-03-17_09:55:38.165 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:55:38.166 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:55:47.134 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:55:47.135 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:55:47.136 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+      E E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+FRAME] as "application/json"
+2022-03-17_09:55:47.149 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:55:47.149 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:56:04.122 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:56:04.123 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:56:04.124 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+      E E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+POTSS] as "application/json"
+2022-03-17_09:56:04.138 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:56:04.139 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_09:56:26.602 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_09:56:26.603 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_09:56:26.603 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+      E E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+POTSS] as "application/json"
+2022-03-17_09:56:26.618 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_09:56:26.618 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:49:40.890 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_10:49:40.972 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:49:41.269 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_10:49:41.280 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:50:41.424 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_10:50:41.482 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:50:41.558 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_10:50:41.567 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:50:51.998 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:50:51.998 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:50:52.013 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_10:50:52.084 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:50:52.085 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:50:56.748 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:50:56.749 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:50:56.749 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? 
+ 
+ Most recent guess: 
+CRUST] as "application/json"
+2022-03-17_10:50:56.775 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:50:56.775 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:51:00.684 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:51:00.685 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:51:00.686 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? 
+ 
+ Most recent guess: 
+FILMS] as "application/json"
+2022-03-17_10:51:00.704 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:51:00.705 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:51:05.917 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:51:05.918 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:51:05.918 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+  G G G   
+? ? ? ? ? 
+ 
+ Most recent guess: 
+BOGUS] as "application/json"
+2022-03-17_10:51:05.938 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:51:05.938 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:51:32.637 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:51:32.637 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:51:32.638 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+  A   E   
+A G G G E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+ALGAE] as "application/json"
+2022-03-17_10:51:32.662 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:51:32.663 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:52:10.372 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:52:10.373 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:52:10.373 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+  A   E   
+A G G G E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+ARGUE] as "application/json"
+2022-03-17_10:52:10.393 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:52:10.393 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_10:52:12.244 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_10:52:12.244 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_10:52:12.245 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+  A   E   
+A G G G E 
+? ? ? ? ? 
+ 
+ Most recent guess: 
+ARGUE] as "application/json"
+2022-03-17_10:52:12.257 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_10:52:12.257 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:07:56.453 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:07:56.518 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:07:56.541 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:07:56.547 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:07:59.006 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:07:59.007 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:07:59.027 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:07:59.062 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:07:59.063 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:08:25.428 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:08:25.499 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:08:25.530 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:08:25.535 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:08:28.773 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:08:28.773 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:08:28.788 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:08:28.833 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:08:28.834 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:08:54.552 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:08:54.645 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:08:54.668 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:08:54.672 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:08:58.480 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:08:58.480 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:08:58.497 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:08:58.533 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:08:58.533 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:09:16.601 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:09:16.656 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:09:16.689 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:09:16.696 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:09:18.935 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:09:18.935 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:09:18.951 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:09:18.990 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:09:18.991 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:13:24.246 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:13:24.313 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:13:24.334 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:13:24.338 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:13:32.065 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:13:32.065 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:13:32.081 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:13:32.111 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:13:32.112 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:16:28.005 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:16:28.080 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:16:28.107 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:16:28.113 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:16:31.503 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:16:31.503 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:16:31.517 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:16:31.549 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:16:31.549 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:16:41.466 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000/puzzle
+2022-03-17_11:16:41.524 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:16:41.558 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_11:16:41.563 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_11:16:47.000 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST http://localhost:5000/puzzle
+2022-03-17_11:16:47.001 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_11:16:47.015 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_11:16:47.037 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_11:16:47.038 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:10:52.231 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:10:52.297 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:10:52.739 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_13:10:52.745 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:10:57.419 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:10:57.420 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:10:57.441 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_13:10:57.660 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_13:10:57.660 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:44:51.471 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:44:51.546 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:44:51.962 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_13:44:51.970 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:45:37.456 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:45:37.456 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:45:37.478 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_13:45:37.669 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_13:45:37.670 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:48:52.434 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:48:52.510 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:48:52.798 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-17_13:48:52.803 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:48:58.915 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:48:58.916 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:48:58.939 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? ] as "application/json"
+2022-03-17_13:48:59.055 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_13:48:59.056 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:49:04.789 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:49:04.790 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:49:04.790 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+          
+? ? ? ? ? 
+ 
+ Most recent guess: 
+TOAST] as "application/json"
+2022-03-17_13:49:04.887 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_13:49:04.887 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-17_13:49:07.795 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-17_13:49:07.796 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-17_13:49:07.796 [main] DEBUG o.s.web.client.RestTemplate - Writing [          
+          
+  N N N   
+? ? ? ? ? 
+ 
+ Most recent guess: 
+FINDS] as "application/json"
+2022-03-17_13:49:07.839 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-17_13:49:07.839 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
