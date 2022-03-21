@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 
-public class BlurredleClientApplication {
+public class BlurrdleClientApplication {
 
 	public static void main(String[] args) {
 
