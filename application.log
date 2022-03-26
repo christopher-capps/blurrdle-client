@@ -704,3 +704,435 @@ TOAST] as "application/json"
 FINDS] as "application/json"
 2022-03-17_13:49:07.839 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
 2022-03-17_13:49:07.839 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:24.569 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:24.623 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:25.089 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-21_16:31:25.095 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:30.413 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:30.414 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:30.434 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? ] as "application/json"
+2022-03-21_16:31:30.638 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:30.638 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:36.096 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:36.096 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:36.097 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+RAIN] as "application/json"
+2022-03-21_16:31:36.214 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:36.214 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:40.719 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:40.720 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:40.720 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+ANTS] as "application/json"
+2022-03-21_16:31:40.764 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:40.764 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:42.974 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:42.975 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:42.975 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+FUZZ] as "application/json"
+2022-03-21_16:31:43.023 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:43.023 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:45.327 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:45.328 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:45.328 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+GAME] as "application/json"
+2022-03-21_16:31:45.357 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:45.358 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:49.248 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:49.248 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:49.249 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+MOSS] as "application/json"
+2022-03-21_16:31:49.290 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:49.290 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:54.878 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:54.879 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:54.879 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+        
+? ? ? ? 
+ 
+ Most recent guess: 
+PAIN] as "application/json"
+2022-03-21_16:31:54.994 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:54.994 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:31:59.678 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:31:59.679 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:31:59.679 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+  E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+POEM] as "application/json"
+2022-03-21_16:31:59.717 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:31:59.717 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:19.509 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:19.510 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:19.510 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+BEAM] as "application/json"
+2022-03-21_16:32:19.589 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:19.589 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:23.511 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:23.512 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:23.512 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+MASK] as "application/json"
+2022-03-21_16:32:23.550 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:23.550 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:27.750 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:27.751 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:27.752 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+RITE] as "application/json"
+2022-03-21_16:32:27.786 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:27.787 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:29.406 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:29.407 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:29.407 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+ALLE] as "application/json"
+2022-03-21_16:32:29.444 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:29.444 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:32.382 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:32.382 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:32.383 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+BALL] as "application/json"
+2022-03-21_16:32:32.409 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:32.409 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-21_16:32:57.704 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-21_16:32:57.705 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-21_16:32:57.705 [main] DEBUG o.s.web.client.RestTemplate - Writing [        
+        
+E E E E 
+? ? ? ? 
+ 
+ Most recent guess: 
+SALE] as "application/json"
+2022-03-21_16:32:57.808 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-21_16:32:57.809 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:42:04.997 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000
+2022-03-26_14:42:05.070 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:42:05.275 [main] DEBUG o.s.web.client.RestTemplate - Response 404 NOT_FOUND
+2022-03-26_14:44:07.289 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:8000
+2022-03-26_14:44:07.346 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:45:10.148 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET http://localhost:5000
+2022-03-26_14:45:10.206 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:45:10.372 [main] DEBUG o.s.web.client.RestTemplate - Response 404 NOT_FOUND
+2022-03-26_14:45:21.310 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:45:21.367 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:45:40.086 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_14:45:40.102 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:50:08.291 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:50:08.352 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:50:17.861 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_14:50:17.864 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:50:25.382 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:50:25.383 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:50:25.401 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_14:50:27.376 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:50:27.378 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:50:30.365 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:50:30.366 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:50:30.367 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_14:50:31.071 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:50:31.073 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:50:34.897 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:50:34.897 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:50:34.897 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_14:50:36.381 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:50:36.382 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:50:52.538 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:50:52.539 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:50:52.539 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+  O O O O   
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+BLOODY] as "application/json"
+2022-03-26_14:50:53.056 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:50:53.056 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:51:55.693 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:51:55.693 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:51:55.694 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+O O O O O   
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+DOOMED] as "application/json"
+2022-03-26_14:51:56.438 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:51:56.439 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:52:00.706 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:52:00.762 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:52:01.001 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_14:52:01.005 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:52:31.614 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:52:31.614 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:52:31.632 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_14:52:32.393 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:52:32.395 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:52:51.950 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:52:51.950 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:52:51.951 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+M M M       
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+AMAZED] as "application/json"
+2022-03-26_14:52:52.937 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:52:52.939 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:53:02.822 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:53:02.822 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:53:02.823 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+O O O       
+M M M O     
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+MOONED] as "application/json"
+2022-03-26_14:53:03.348 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:53:03.349 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:53:42.069 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:53:42.069 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:53:42.070 [main] DEBUG o.s.web.client.RestTemplate - Writing [T T T N     
+O O O T     
+M M M O N N 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+ATTEND] as "application/json"
+2022-03-26_14:53:42.489 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:53:42.490 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:53:51.013 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:53:51.014 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:53:51.014 [main] DEBUG o.s.web.client.RestTemplate - Writing [T T T N     
+O O O T     
+M M M O N N 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+ATTEND] as "application/json"
+2022-03-26_14:53:52.061 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:53:52.063 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_14:54:15.493 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_14:54:15.494 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_14:54:15.494 [main] DEBUG o.s.web.client.RestTemplate - Writing [T T T N     
+O O O T     
+M M M O N N 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+SLIVER] as "application/json"
+2022-03-26_14:54:16.008 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_14:54:16.009 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:13:08.305 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:13:08.446 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:13:10.991 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:13:33.310 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:13:33.376 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:13:33.622 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:13:56.035 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:13:56.093 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:13:56.460 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:15:02.412 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:15:02.478 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:15:02.720 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:15:47.741 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:15:47.801 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:15:58.276 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:18:26.869 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:18:26.931 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:18:27.313 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:20:00.762 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:20:00.819 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:20:01.084 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:24:07.915 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:24:08.006 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:24:08.966 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:25:00.093 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:25:00.152 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:25:00.510 [main] DEBUG o.s.web.client.RestTemplate - Response 500 INTERNAL_SERVER_ERROR
+2022-03-26_15:27:17.772 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:27:17.829 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:27:19.545 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_15:27:19.550 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:27:29.610 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:27:29.611 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:27:29.628 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_15:27:30.665 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:27:30.666 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:27:39.415 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:27:39.416 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:27:39.417 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+  T T       
+O O O T     
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+NOTATE] as "application/json"
+2022-03-26_15:27:40.871 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:27:40.873 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:27:43.534 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:27:43.535 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:27:43.536 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+  T T       
+O O O T     
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+TOPPED] as "application/json"
+2022-03-26_15:27:44.368 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:27:44.369 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:27:54.693 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:27:54.693 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:27:54.694 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I O N   
+  T T I O N 
+O O O T I O 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+OPTION] as "application/json"
+2022-03-26_15:27:55.975 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:27:55.976 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:28:39.741 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:28:39.741 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:28:39.742 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I O N   
+  T T I O N 
+O O O T I O 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+NOTION] as "application/json"
+2022-03-26_15:28:40.745 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:28:40.746 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:29:19.219 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:29:19.220 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:29:19.220 [main] DEBUG o.s.web.client.RestTemplate - Writing [  M I O N   
+M T T I O N 
+O O O T I O 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+AMULET] as "application/json"
+2022-03-26_15:29:20.453 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:29:20.454 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:29:24.539 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:29:24.598 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:29:24.836 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_15:29:24.840 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:29:28.592 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:29:28.593 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:29:28.610 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+            
+? ? ? ? ? ? ] as "application/json"
+2022-03-26_15:29:29.890 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:29:29.892 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:29:37.150 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:29:37.150 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:29:37.151 [main] DEBUG o.s.web.client.RestTemplate - Writing [            
+            
+M M M       
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+AMULET] as "application/json"
+2022-03-26_15:29:39.208 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:29:39.209 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:30:00.254 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:30:00.254 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:30:00.255 [main] DEBUG o.s.web.client.RestTemplate - Writing [  T I O N   
+O O T I O N 
+M M M T I O 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+OPTION] as "application/json"
+2022-03-26_15:30:03.283 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:30:03.284 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:33:07.528 [main] DEBUG o.s.web.client.RestTemplate - HTTP GET https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:33:07.603 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:33:07.824 [main] DEBUG o.s.web.client.RestTemplate - Response 302 FOUND
+2022-03-26_15:33:07.828 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:33:12.262 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:33:12.263 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:33:12.278 [main] DEBUG o.s.web.client.RestTemplate - Writing [? ? ? ? ? ? ] as "application/json"
+2022-03-26_15:33:13.835 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:33:13.837 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]
+2022-03-26_15:33:18.707 [main] DEBUG o.s.web.client.RestTemplate - HTTP POST https://blurrdle.herokuapp.com/puzzle
+2022-03-26_15:33:18.708 [main] DEBUG o.s.web.client.RestTemplate - Accept=[application/json, application/*+json]
+2022-03-26_15:33:18.708 [main] DEBUG o.s.web.client.RestTemplate - Writing [    I O N   
+  T T I O N 
+O O O T I O 
+? ? ? ? ? ? 
+ 
+ Most recent guess: 
+NOTION] as "application/json"
+2022-03-26_15:33:19.471 [main] DEBUG o.s.web.client.RestTemplate - Response 202 ACCEPTED
+2022-03-26_15:33:19.473 [main] DEBUG o.s.web.client.RestTemplate - Reading to [org.christophercapps.blurredleclient.model.GuessTracker]

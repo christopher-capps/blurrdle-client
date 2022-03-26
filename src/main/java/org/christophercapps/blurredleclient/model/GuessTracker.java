@@ -71,7 +71,13 @@ public class GuessTracker {
     private String rowsToString() {
         String output = "";
 
-        for (int i = 3; i > 0; i--) {
+        int biggestColumn = 0;
+        for (GuessColumn column : columns) {
+            if (column.possibleLetters.size() > biggestColumn) {
+                biggestColumn = column.possibleLetters.size();
+            }
+        }
+        for (int i = biggestColumn; i > 0; i--) {
             for (GuessColumn column : columns) {
                 if (column.getPossibleLetters().size() >= i) {
                     output += Character.toUpperCase(column.getPossibleLetters().get(i - 1)) + " ";
