@@ -1,6 +1,6 @@
 # Blurrdle : A High-Difficulty Wordle Variant
 
-Note: This is a simple Java CLI client for playing Blurrdle. To take a look at how the game actually works, sever-side, [check out that code here.](https://github.com/christopher-capps/blurrdle-client) To play it in your browser, check out [Blurrdle.com](https://blurrdle.com)
+Note: This is a simple Java CLI client for playing Blurrdle. To take a look at how the game actually works, sever-side, [check out that code here.](https://github.com/christopher-capps/blurrdle-client) To play it in your browser, check out [Blurrdle.com](http://blurrdle.com)
 
 Blurrdle is a project that I've built to have a little fun and to practice creating a Spring Boot RESTful API.
 The API is currently running on Heroku, and this client points to: https://blurrdle.herokuapp.com/puzzle
